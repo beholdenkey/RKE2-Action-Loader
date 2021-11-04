@@ -17,7 +17,14 @@
         "display_mode": "GUI",
         "ventoy_left": "5%",
         "ventoy_top": "95%",
-        "ventoy_color": "#0000ff"
+        "ventoy_color": "#0000ff",
+        "fonts": [
+            "/ventoy/theme/droidlogo_regular_17.pf2",
+            "/ventoy/theme/droidlogo_bold_20.pf2",
+            "/ventoy/theme/droidlogo_bold_26.pf2",
+            "/ventoy/theme/droidlogo_regular_12.pf2",
+            "/ventoy/theme/droidlogo_regular_17.pf2"
+        ]
     },
     
     
