@@ -131,3 +131,7 @@ dmypy.json
 # VSCode
 *.vscode
 *.iso
+ventoy/script/hpe1-bm1-ks.cfg
+ventoy/script/hpe1-bm2-ks.cfg
+ventoy/script/hpe1-bm3-ks.cfg
+ventoy/script/hpe1-bm4-ks.cfg
