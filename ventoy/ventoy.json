@@ -37,18 +37,12 @@
     
     "auto_install": [
         {
-            "image": "/ISO/cn_windows_10.iso",
-            "template": "/ventoy/script/windows_unattended.cfg"
-        },
-        {
-            "image": "/ISO/cn_windows_10.iso",
+            "image": "ISO/rhel-8.4-x86_64.iso",
             "template": [
-                "/ventoy/script/windows_unattended1.xml",
-                "/ventoy/script/windows_unattended2.xml",
-                "/ventoy/script/windows_unattended3.xml",
-                "/ventoy/script/windows_unattended4.xml",
-                "/ventoy/script/windows_unattended5.xml",
-                "/ventoy/script/windows_unattended6.xml"
+                "ventoy/script/hpe1-bm1-ks.cfg",
+                "ventoy/script/hpe1-bm1-ks.cfg",
+                "ventoy/script/hpe1-bm1-ks.cfg",
+                "ventoy/script/hpe1-bm1-ks.cfg"
             ]
         }
     ]
